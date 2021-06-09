@@ -40,4 +40,5 @@
 📲 Contact me
 
 <br/> [<img align="left" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/cae25487b37975758a5753e8711681a179110586/icons/linkedin.svg" />](https://www.linkedin.com/in/jorge-carranza-700101211/)
+[]()
 -->
