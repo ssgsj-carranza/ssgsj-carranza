@@ -16,5 +16,5 @@
 
 <br/>
 🛠️ Tools and Tech
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" />
 -->
