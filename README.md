@@ -36,5 +36,5 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain-wordmark.svg" />
 <br/>
 📲 Contact me
-<br/> [<img align="left" width="26px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png"](https://www.linkedin.com/in/jorge-carranza-700101211/)
+<br/> [LinkdIn](https://www.linkedin.com/in/jorge-carranza-700101211/)
 -->
