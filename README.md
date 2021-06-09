@@ -8,9 +8,6 @@
 - ⚡ Fun fact: I have a dbz statue collection in the triple digits 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-###Connect with me:
-[<img align ="left" alt="ssgsj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-
 <br/>
 
 ###GitHub Stats:
