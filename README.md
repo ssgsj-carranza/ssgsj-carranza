@@ -9,9 +9,12 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br/>
-📈**GitHub Stats**
+📈 GitHub Stats
 
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssgsj-carranza&langs_count=5&theme=tokyonight' />
 <img align="center" src='https://github-readme-stats.vercel.app/api/?username=ssgsj-carranza&count_private=true&theme=tokyonight&showicons=true' />
 
+🛠️ Tools
+
+<img align="left" alt="html5" width "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 -->
