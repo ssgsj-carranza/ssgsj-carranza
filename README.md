@@ -14,6 +14,7 @@
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssgsj-carranza&langs_count=5&theme=tokyonight' />
 <img align="center" src='https://github-readme-stats.vercel.app/api/?username=ssgsj-carranza&count_private=true&theme=tokyonight&showicons=true' />
 
+<br/>
 🛠️ Tools and Tech
-<img align="left" alt="html5" width "26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" />
 -->
