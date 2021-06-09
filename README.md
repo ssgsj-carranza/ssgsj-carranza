@@ -15,7 +15,6 @@
 <img align="center" src='https://github-readme-stats.vercel.app/api/?username=ssgsj-carranza&count_private=true&theme=tokyonight&showicons=true' />
 
 <br/>
-🛠️ Tools and Tech
-
+🛠️ Tools and Tech<br/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" />
 -->
