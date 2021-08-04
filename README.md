@@ -1,7 +1,7 @@
 ### Hi there I'm Jorge Carranza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on ...Learning more about redux, next js, azure, and ant design
+- 🔭 I’m currently working on ...Learning more about Redux, Next js, Azure, and Ant design
 - 🌱 I’m currently learning ...everyting I can get my hands on 🤣
 - 👯 I’m looking to collaborate with anyone as I can always learn something
 - 😄 Pronouns: he/him
