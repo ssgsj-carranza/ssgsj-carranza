@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on ...Learning more about Redux, Next js, Azure, and Ant design
-- 🌱 I’m currently learning ...everyting I can get my hands on 🤣
+- 🌱 I’m currently learning ...web3 🤣
 - 👯 I’m looking to collaborate with anyone as I can always learn something
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a dbz statue collection in the triple digits 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <br/>
 📈 GitHub Stats
